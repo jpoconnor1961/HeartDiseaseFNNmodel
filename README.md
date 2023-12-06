@@ -10,6 +10,8 @@ Download & Install Instructions for the submitted Heart Disease FNN Model Projec
 - The "harvard_oconnor_FNNmodel" working directory folder in your R application will contain the following:
    - harvard_oconnor_FNNmodel_PDF file
    - harvard_oconnor_FNNmodel_Rcode file
+   - train.csv
+   - test.csv
    - harvard_oconnor_FNNmodel_RMD markdown file
    - 13 PNG image files to support the figures coded in the markdown file
    - 1 JPG image file to support a figure coded in the markdown file
